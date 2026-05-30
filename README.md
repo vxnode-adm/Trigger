@@ -99,7 +99,3 @@ Most dependencies are installed automatically.
 This script can suspend encrypted volumes and immediately shut down the system.
 
 Test carefully before using it on important machines.
-
-## License
-
-MIT
